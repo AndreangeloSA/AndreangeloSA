@@ -17,9 +17,3 @@
 ### Banco de Dados
 - PostgreSQL
 - SQLite
-
-### Ferramentas
-- Git
-- GitHub
-- Postman
-- Docker (básico)
