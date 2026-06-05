@@ -1,16 +1,25 @@
-## Hi there 👋
+# Andréângelo Andrade
 
-<!--
-**AndreangeloSA/AndreangeloSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em início de carreira, focado em desenvolvimento backend.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens
+- Java
+- Python
+- SQL
+
+### Frameworks
+- Spring Boot (em aprendizado)
+- Django
+- Django REST Framework
+
+### Banco de Dados
+- PostgreSQL
+- SQLite
+
+### Ferramentas
+- Git
+- GitHub
+- Postman
+- Docker (básico)
