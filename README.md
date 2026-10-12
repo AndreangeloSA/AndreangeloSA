@@ -1,6 +1,6 @@
 # Andreângelo Santana Andrade
 
-💻 Desenvolvedor em início de carreira, focado em desenvolvimento backend.
+💻 Desenvolvedor em início de carreira, focado em desenvolvimento backend e desenvolvimento de jogos
 
 ## 🚀 Tecnologias
 
@@ -10,10 +10,14 @@
 - SQL
 
 ### Frameworks
-- Spring Boot (em aprendizado)
+- Spring Boot
 - Django
 - Django REST Framework
 
 ### Banco de Dados
 - PostgreSQL
 - SQLite
+
+### Game development tools
+- Godot Engine
+- Aseprite
