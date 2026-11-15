@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor em início de carreira, focado em desenvolvimento backend e desenvolvimento de jogos
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Linguagens
 - Java
